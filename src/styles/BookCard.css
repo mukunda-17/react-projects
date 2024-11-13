@@ -1,0 +1,22 @@
+.book-card {
+    width: 150px;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .book-card img {
+    width: 100px;
+    height: 150px;
+  }
+  
+  .book-card button {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
